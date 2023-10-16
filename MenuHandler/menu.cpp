@@ -1,8 +1,8 @@
 #include <iostream>
 #include <unistd.h>
 
-#include "menu.h"
-#include "board.h"
+#include "menu.hpp"
+#include "../GameHandler/board.hpp"
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
     void Menu::optionMainMenuSelect()        

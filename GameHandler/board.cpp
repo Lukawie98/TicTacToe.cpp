@@ -1,8 +1,7 @@
 #include <iostream>
 
-
-#include "board.h"
-#include "menu.h"
+#include "board.hpp"
+#include "../MenuHandler/menu.hpp"
 
 
 void Board::showBoard()
