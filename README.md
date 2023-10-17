@@ -14,6 +14,7 @@ The whole project is written in C++ language and uses such libraries as:
 - string
 - iostream
 - unistd.h
+The integrated development environment(IDE) used was Visual Studio Code.
 
 ## Features
 - The program uses basic functions from the string library, which makes it easier to work with text and will facilitate future modifications,
