@@ -1,5 +1,5 @@
 # TicTacToe_Cpp
-> Old but SOLID gold tic-tac-toe game with additional mode of playing PvC on three different levels.
+> Old but gold tic-tac-toe game with additional mode of playing PvC on three different levels.
 
 ## General Information
 The project aims to make it possible to play tic-tac-toe against a friend and against the computer at three different levels:
