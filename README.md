@@ -26,15 +26,10 @@ The whole project is written in C++ language and uses such libraries as:
 Project is: _in progress_.
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+The project is one of the first and gave me a lot of fun, but it needs some improvements:
+- creating a separate class for the computer at different levels, polymorphism can be used here,
+- use of const-correctness
+- simplifying the code and improving the names of variables and functions
 
 ## Contact
 Created by lukaszwieczorek1998@gmail.com - feel free to contact me!
